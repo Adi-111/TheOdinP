@@ -1,2 +1,1 @@
-# TheOdinP
-# TheOdinP
+# The Odin Project
